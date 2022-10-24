@@ -31,6 +31,8 @@ module.exports = {
         index_28:'NFT数量：',
         index_29:'总计：',
         index_30:'NFT数量：',
+        index_31:'上级推荐人：',
+        index_32:'NFT碎片：',
 
 
         f_1:'全网总算力（H/s）',
@@ -132,6 +134,7 @@ module.exports = {
 
 
         min:'最低1000USDT起投。',
+        noAddr:'上级邀请人钱包地址不能为空！',
         max:'单账户不能超过20000算力',
         noAccredit:'未授权',
         noNum:"数额不能小于0",
