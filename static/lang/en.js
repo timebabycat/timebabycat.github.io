@@ -17,7 +17,7 @@ module.exports = {
         index_15:'AD',
         index_16:'METAMA blind box',
         index_17:'NFT, full name of non-fungible Token, refers to non-homogenous Token. In essence, NFT is a trusted digital certificate of rights and interests with unique characteristics in the blockchain network. It is a kind of data object that can record and process multidimensional and complex attributes on the blockchain. NFT Non-Fungible Token',
-        index_18:'In the NFT created by METAMA, each card has a global unique number and is worth 5000U.',
+        index_18:'In the NFT created by METAMA, each card has a global unique number and is worth 500U.',
         index_18_1:"Buy blind box",
         index_19:'NFT card',
         index_20:'NFT card rights',
