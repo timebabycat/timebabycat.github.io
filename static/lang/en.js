@@ -30,6 +30,9 @@ module.exports = {
         index_27:'partner',
         index_28:'Number of NFT:',
         index_29:'Total ：',
+        index_30:'Number of NFT:',
+        index_31:'Superior recommender:',
+        index_32:'NFT pieces:',
 
         f_1:'Total pool（H/s）',
         f_2:'Global dividend',
@@ -71,7 +74,7 @@ module.exports = {
         f_37:'My invitation link ',
 
 
-        f_21:'Personal data ',
+        f_21:'Copy invitation link',
         f_22:'Individual benefits are available',
         f_40:'普通节点',
         f_41:'初级节点',
