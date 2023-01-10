@@ -21,6 +21,7 @@
 	function linkWallet() {
         console.log(window)
 		if (window.ethereum) {
+			alert("11");
 			web3Provider = window.ethereum;
 			// 新版需要请求用户授权
 			try {
@@ -31,11 +32,13 @@
 				return;
 			}
 		} else if (window.web3) {
+			alert("22");
 			// MetaMask Legacy dapp browsers...
 			web3Provider = window.web3.currentProvider;
-			console.log("web3.currentProvider:");
+			alert("web3.currentProvider:");
 			console.log(window.web3.currentProvider);
 		} else {
+			alert("33");
 			web3Provider = new Web3.providers.HttpProvider('https://rpc.tomoweb3.io/');
             console.log(window.ethereum)
 		}
